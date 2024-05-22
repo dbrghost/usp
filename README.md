@@ -12,3 +12,4 @@
 - BCC 25: fernando vetores eh phoda
 - joao goulart: procure comer cimento
 - Getulio Vargas: esse saba muito
+- Da Roca: pq nao chamar x⁴ de x ao tesseract?
